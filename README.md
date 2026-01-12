@@ -1,4 +1,4 @@
-# Copy Cat - Auto App
+# Copy Cat - Auto App 
 
 A full-stack application with a React Native/Expo client and Node.js/Express server.
 
@@ -361,3 +361,5 @@ npx expo start --clear
 ## Contributing
 
 Please ensure all environment variables are properly configured before running the application.
+
+A Lesson In GitHub - How To Do Branches
